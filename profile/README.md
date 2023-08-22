@@ -8,4 +8,4 @@
 
 📷 https://public.photos - publish photos
 
-🤖 https://convertfile.io - convert Apple files
+🤖 https://convertfile.io - convert apple files to various formats
